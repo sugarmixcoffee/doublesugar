@@ -1,4 +1,4 @@
-Kaggle 코드 분석과 연습
+## Kaggle 코드 분석과 연습
 
 0. 심층 강화 학습을 활용한 주식 거래
 https://www.kaggle.com/code/stpeteishii/nvidia-stock-trading-decision-sac/notebook
