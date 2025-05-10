@@ -4,7 +4,7 @@
 https://www.kaggle.com/code/stpeteishii/nvidia-stock-trading-decision-sac/notebook
 
 1. 필수 패키지 
-gymnasium, numpy, pandas, matplotlib, stable-baselines3 
+gymnasium(환경), numpy, pandas, matplotlib, stable-baselines3(DRL), ta-lib(기술적 분석 라이브러리)
 
 2. 다우존스 30 지수 데이터 다운로드 (CSV로 저장)
 
